@@ -1,5 +1,5 @@
 # Fast-Godot-3D-FPS
-Repo to fork if you want an easy way to start a 3d FPS with movement and animation scripts of the player.
+Repo to fork if you want an easy way to start a 3d FPS with movements and animations of a player.
 
 ## What do you have in this repo ?
 - Basic menu ( play, quit )
