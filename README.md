@@ -1,5 +1,5 @@
 # Fast Godot Multiplayer 3D FPS
-Repo to fork if you want an easy way to start a (local) multiplayer 3d FPS with movements and animations of a player.
+Repo to fork if you want a quick and easy way to start a (local) multiplayer FPS with movements and animations of the player.
 
 ## What do you have in this repo ?
 - Basic Networking ( each player will see the things described under )
