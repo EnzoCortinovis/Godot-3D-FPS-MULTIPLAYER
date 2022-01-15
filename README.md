@@ -21,6 +21,7 @@ When you want to test on your computer you just have to launch 2 windows of the 
 ## Keybinds
 - Z,Q,S,D for movements ( if you want WASD you can change it by going into Project -> Parameters -> Controls -> and you edits with your settings )
 - Space and Shift for jumping and sprinting
+- 1,2,3,4 and V for the emotes
 - F11 for FullScreen
 - Escape to escape ( OMG )
 
