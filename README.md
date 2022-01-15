@@ -5,7 +5,7 @@ Repo to fork if you want an easy way to start a (local) multiplayer 3d FPS with 
 - Basic Networking ( each player will see the things described under )
 - FPS player with :
     - Movements ( + jump & sprint )
-    - Animations ( jumping, running, walking, idling )
+    - Animations ( jumping, running, walking, idling, punching, paring )
     - Emotes ( backflip + a bunch of dances )
 - Basic menu ( host, join, ip )
 
