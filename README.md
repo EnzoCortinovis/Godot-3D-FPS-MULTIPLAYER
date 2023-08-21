@@ -28,4 +28,4 @@ When you want to test on your computer you just have to launch 2 windows of the 
 ## Credits
 - Mixamo for the animations ( https://www.mixamo.com/#/ )
 - Video Youtube of Garbaj ( https://www.youtube.com/watch?v=K0luHLZxjBA&t=5s&pp=ugMICgJmchABGAE%3D )
-- TRAPMANIA ( Multi Deathrun game GarrysMode like where i did all of this ) ( if you want to play it DM me on twitter at @CortinovisEnzo i will send you a link )
+- TRAPMANIA ( Multi Deathrun game GarrysMode like where i did all of this )
